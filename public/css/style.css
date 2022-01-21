@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#particles-js {
+    background: rgba(138, 43, 226, 0.8);
+}
+
+.main {
+    transform: translate(-50%, -50%);
+}
+
+.login {
+    padding: 7px;
+}
+
+.login-button {
+    width: 270px;
+}

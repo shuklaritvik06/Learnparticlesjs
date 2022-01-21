@@ -1,0 +1,16 @@
+{
+  "name": "learnparticlesjs",
+  "version": "0.0.0",
+  "description": "Simple page to learn particlesjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shuklaritvik06",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "particles.js": "^2.0.0"
+  }
+}
